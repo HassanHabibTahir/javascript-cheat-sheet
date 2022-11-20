@@ -10,3 +10,4 @@ for (key in user) {
 // cloning object
 const copyObject = Object.assign({}, user);
 console.log(copyObject);
+// The simplest way to create an empty object is using the Object constructor. Currently this approach is not recommended
