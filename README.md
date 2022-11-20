@@ -20,5 +20,4 @@ for (key in user) {
 // cloning object
 const copyObject = Object.assign({}, user);
 console.log(copyObject);
-
 ```
